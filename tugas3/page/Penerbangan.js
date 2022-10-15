@@ -134,7 +134,6 @@ const styles = StyleSheet.create({
   },
   heading2: {
     fontFamily: "Sans-Serif",
-    fontWeight: "Bold",
     color: 'white',
     textAlign:'center',
   },
@@ -150,7 +149,6 @@ const styles = StyleSheet.create({
   item: {
     backgroundColor: '#fff',
     padding: 20,
-    boxShadow: "0px 4px 8px 0px rgba(0,0,0,0.2)",
     marginVertical: 8,
     marginHorizontal: 16,
     borderRadius:10,

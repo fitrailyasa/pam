@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "uts-pam",
-    "slug": "uts-pam",
+    "name": "tugas3_120140048",
+    "slug": "tugas3_120140048",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "uts-pam"
+  "name": "tugas3_120140048"
 }

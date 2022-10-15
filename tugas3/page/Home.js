@@ -100,7 +100,6 @@ const styles = StyleSheet.create({
   },
   header2: {
     fontFamily: "Sans-Serif",
-    fontWeight: "Bold",
   },
   card: {
     backgroundColor: 'white',
@@ -108,12 +107,10 @@ const styles = StyleSheet.create({
     width: '80%',
     padding:20,
     borderRadius:10,
-    boxShadow: "0px 4px 8px 0px rgba(0,0,0,0.2)",
   },
   input: {
     height: 40,
     width: '100%',
-    border:'none',
     padding: 10,
     borderRadius:3,
   },
